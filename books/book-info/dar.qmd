@@ -1,0 +1,19 @@
+---
+title: "Democracy, Accountability, and Representation"
+author: 
+  - Adam Przeworski
+  - Susan C. Stokes
+  - Bernard Manin
+year: 1999
+publisher: Cambridge University Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://www.cambridge.org/core/books/democracy-accountability-and-representation/14785A2D4EE1DDFBA595CE810C51F2CA" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+This book examines whether the mechanisms of accountability characteristic of democratic systems are sufficient to induce the representatives to act in the best interest of the represented. The first part of the volume focuses on the role of elections, distinguishing different ways in which they may cause representation. The second part is devoted to the role of checks and balances, between the government and the parliament as well as between the government and the bureaucracy. The contributors of this volume, all leading scholars in the fields of American and comparative politics and political theory, address questions such as, whether elections induce governments to act in the interest of citizens. Are politicians in democracies accountable to voters in future elections? If so, does accountability induce politicians to represent citizens? Does accountability limit or enhance the scope of action of governments? Are governments that violate campaign mandates representative? Overall, the essays combine theoretical discussions, game-theoretic models, case studies, and statistical analyses, within a shared analytical approach and a standardized terminology. The empirical material is drawn from the well established democracies as well as from new democracies.
+
+[← Back to all books](/books/index.html)

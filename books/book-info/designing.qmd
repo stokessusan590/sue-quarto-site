@@ -1,0 +1,24 @@
+---
+title: "Designing Democratic Government: Making Institutions Work"
+author: 
+  - Margaret Levi
+  - James Johnson
+  - Jack Knight
+  - Susan Stokes
+year: 2008
+publisher: Russell Sage Foundation
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://www.russellsage.org/publications/designing-democratic-government-0" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+What are the essential elements of a democracy? How can nations ensure a political voice for all citizens, and design a government that will respond to those varied voices? These perennial questions resonate strongly in the midst of ongoing struggles to defend democratic institutions around the world and here at home. In *Designing Democratic Government*, a group of distinguished political scientists provides a landmark cross-national analysis of the institutions that either facilitate or constrain the healthy development of democracy.
+
+The contributors to *Designing Democratic Government* use the democratic ideals of fairness, competitiveness, and accountability as benchmarks to assess a wide variety of institutions and practices. John Leighly and Jonathan Nagler find that in the U.S., the ability to mobilize voters across socioeconomic lines largely hinges on the work of non-party groups such as civic associations and unions, which are far less likely than political parties to engage in class-biased outreach efforts. Michael McDonald assesses congressional redistricting methods and finds that court-ordered plans and close adherence to the Voting Rights Act effectively increase the number of competitive electoral districts, while politically-drawn maps reduce the number of competitive districts. John Carey and John Polga-Hecimovich challenge the widespread belief that primary elections produce inferior candidates. Analyzing three decades worth of comprehensive data on Latin American presidential campaigns, they find that primaries impart a stamp of legitimacy on candidates, helping to engage voters and mitigate distrust in the democratic process. And Kanchan Chandra proposes a paradigm shift in the way we think about ethnic inclusion in democracies: nations should design institutions that actively promote---rather than merely accommodate---diversity.
+
+At a moment when democracy seems vulnerable both at home and abroad, *Designing Democratic Government* sorts through a complex array of practices and institutions to outline what works and what doesn't in new and established democracies alike. The result is a volume that promises to change the way we look at the ideals of democracy worldwide.
+
+[← Back to all books](/books/index.html)

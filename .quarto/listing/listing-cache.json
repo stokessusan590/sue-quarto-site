@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "research/index.qmd": [
+      "papers.yaml"
+    ],
+    "press/index.qmd": [
+      "press.yaml"
+    ],
+    "books/index.qmd": [
+      "books.yaml"
+    ]
+  }
+}

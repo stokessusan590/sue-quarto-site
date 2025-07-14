@@ -1,0 +1,19 @@
+---
+title: "Public Support for Market Reforms in New Democracies"
+author: 
+  - Susan C. Stokes
+year: 2001
+publisher: Cambridge University Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://www.cambridge.org/core/books/public-support-for-market-reforms-in-new-democracies/5B080D9543285306E70032903DB7AC19" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+Do people in new democracies undergoing market reforms turn against these reforms when the economic adjustment is painful? The conventional wisdom is that they will. According to 'economic voting' models, citizens punish elected governments for bad economic performance. The contributors to this collection, in contrast, begin with the insight that citizens in new democracies have good reasons to depart from the predictions of economic voting. If they believe the prediction that, with the transition to a market economy, economic conditions must deteriorate before they improve, they may interpret short-term deterioration as signaling that the transition is on course and things will improve in the future. If they perceive that forces from the past are responsible for economic deterioration, they may exonerate the government. With similar data-sets from three new democracies in Europe and three in Latin America, the authors probe the support for governments and economic reforms under economic conditions.
+
+\
+
+[← Back to all books](/books/index.html)

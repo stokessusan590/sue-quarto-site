@@ -1,0 +1,19 @@
+---
+title: "The Oxford Handbook of Comparative Politics
+"
+author: 
+  - Carles Boix
+  - Susan Stokes
+year: 2009
+publisher: Oxford University Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://academic.oup.com/edited-volume/28345" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+*The Oxford Handbook of Comparative Politics* offers a critical survey of the field of empirical political science through the collection of a set of articles written by forty-seven scholars in the discipline of comparative politics. Part I includes articles surveying the key research methodologies employed in comparative politics (the comparative method, the use of history, the practice and status of case-study research, and the contributions of field research) and assessing the possibility of constructing a science of comparative politics. Parts II to IV examine the foundations of political order: the origins of states and the extent to which they relate to war and to economic development; the sources of compliance or political obligation among citizens; democratic transitions, the role of civic culture; authoritarianism; revolutions; civil wars and contentious politics. Parts V and VI explore the mobilization, representation, and the coordination of political demands. Part V considers why parties emerge, and the forms they take and the ways in which voters choose parties. The text then includes articles on collective action, social movements, and political participation. Part VI opens with essays on the mechanisms through which political demands are aggregated and coordinated. This sets the agenda to the systematic exploration of the workings and effects of particular institutions: electoral systems, federalism, legislative-executive relationships, the judiciary and bureaucracy. Finally, Part VII is organized around the burgeoning literature on macro-political economy of the last two decades. This Handbook is one of *The Oxford Handbooks of Political Science* a ten-volume set of reference books offering authoritative and engaging critical overviews of the state of political science.
+
+[← Back to all books](/books/index.html)

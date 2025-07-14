@@ -1,0 +1,24 @@
+---
+title: "Brokers, Voters, and Clientelism: The Puzzle of Distributive Politics"
+author: 
+  - Susan C. Stokes
+  - Thad Dunning
+  - Marcelo Nazareno
+  - Valeria Brusco
+year: 2013
+publisher: Cambridge University Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://www.cambridge.org/core/books/brokers-voters-and-clientelism/2346382B38862E36C09042C779EA1510" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+Brokers, Voters, and Clientelism addresses major questions in distributive politics. Why is it acceptable for parties to try to win elections by promising to make certain groups of people better off, but unacceptable - and illegal - to pay people for their votes? Why do parties often lavish benefits on loyal voters, whose support they can count on anyway, rather than on responsive swing voters? Why is vote buying and machine politics common in today's developing democracies but a thing of the past in most of today's advanced democracies? This book develops a theory of broker-mediated distribution to answer these questions, testing the theory with research from four developing democracies, and reviews a rich secondary literature on countries in all world regions. The authors deploy normative theory to evaluate whether clientelism, pork-barrel politics, and other non-programmatic distributive strategies can be justified on the grounds that they promote efficiency, redistribution, or voter participation.
+
+-   Winner, 2014 Luebbert Best Book Award, Comparative Politics Section, American Political Science Association
+
+-   Co-Winner, 2014 Best Book Award, Comparative Democratization Section, American Political Science Association
+
+[← Back to all books](/books/index.html)

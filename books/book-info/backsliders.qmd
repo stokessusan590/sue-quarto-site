@@ -1,0 +1,31 @@
+---
+title: "The Backsliders: Why Leaders Undermine Their Own Democracies"
+author: 
+  - Susan Stokes
+year: 2025
+publisher: Princeton University Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://press.princeton.edu/books/hardcover/9780691271545/the-backsliders" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+***Why democracy is under assault across the globe by the leaders entrusted to preserve it***
+
+Democracies around the world are getting swept up in a wave of democratic erosion. Since the beginning of the 21st century, two dozen presidents and prime ministers have attacked their countries' democratic institutions, violating political norms, aggrandizing their own powers, and often trying to overstay their terms in office.
+
+*The Backsliders* offers the first general explanation for this wave. Drawing on a wealth of original research, Susan Stokes shows that increasing income inequality, a legacy of late-20th century globalization, left some countries especially at risk of backsliding toward autocracy. Left-behind voters were drawn to right-wing ethnonationalist leaders in countries like the United States, India, and Brazil, and to left-wing populist ones in countries like Venezuela, Mexico, and South Africa.
+
+Unlike military leaders who abruptly kill democracies in coups, elected leaders who erode them gradually must maintain some level of public support. They do so by encouraging polarization among citizens and also by trash-talking their democracies: claiming that the institutions they attack are corrupt and incompetent. They tell voters that these institutions should be torn down and replaced by ones under the executive's control. *The Backsliders* describes how journalists, judges, NGOs, and opposition leaders can put the brakes on democratic erosion, and how voters can do so through political engagement and the power of the ballot box.
+
+**Advance praise for *The Backsliders***
+
+\"This splendid book is a model of well-argued, timely, and accessible scholarship. Stokes draws on an impressive range of methods and evidence to teach us about the economic and institutional roots of democratic backsliding, the ideas that would-be autocrats use to gain support, and the psychological bases of supporters\' responses. Her argument deserves a global audience of academics and activists alike.\"---Nancy Bermeo, University of Oxford
+
+\"The most important book on the most urgent and compelling topic in political science.\"---James A. Robinson, coauthor of *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*
+
+\"A fascinating book that breaks new ground in a crowded field by highlighting both the demand and supply sides of the new authoritarianism (and their mutually reinforcing roles). Notably, Susan Stokes demonstrates how inequality contributes to democratic erosion and how backsliding leaders in turn deepen polarization and sow mistrust in institutions.\"---Dani Rodrik, Harvard University
+
+[← Back to all books](/books/index.html)

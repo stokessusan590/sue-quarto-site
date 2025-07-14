@@ -1,0 +1,19 @@
+---
+title: "Cultures in Conflict: Social Movements and the State in Peru"
+author: 
+  - Susan C. Stokes
+year: 1995
+publisher: University of California Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://www.ucpress.edu/book/9780520200234/cultures-in-conflict" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+In this vivid ethnography set in contemporary Peru, Susan Stokes provides a compelling analysis of the making and unmaking of class consciousness among the urban poor. Her research strategy is multifaceted; through interviews, participant observation, and survey research she digs deeply into the popular culture of the social activists and shantytown residents she studies. The result is a penetrating look at how social movements evolve, how poor people construct independent political cultures, and how the ideological domination of oppressed classes can shatter.
+
+This work is a new and vital chapter in the growing literature on the formation of social movements. It chronicles the transformation of Peru's poor from a culture of deference and clientelism in the late 1960s to a population mobilized for radical political action today.
+
+[← Back to all books](/books/index.html)

@@ -1,0 +1,15 @@
+{
+  "hash": "7f3ed704894049d2a42c41830768e2ef",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Why Bother? Rethinking Participation in Elections and Protests\"\nauthor: \n  - S. Erdem Aytaç\n  - Susan C. Stokes\nyear: 2019\npublisher: Cambridge University Press\npurchase: \"https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/politics-general-interest/why-bother-rethinking-participation-elections-and-protests?format=PB&isbn=9781108465946\"\nimage: book-covers/backsliders.png\nfilters: [\"add-publisher.lua\"]\nformat:\n  html:\n    title-block-style: default\n---\n\n\n\n\n\n\n\n\n<br>\n\n\nWhy does police repression of demonstrators sometimes turn localized protests into massive, national movements? How do politicians and activists manipulate people's emotions to get them involved? The authors of Why Bother? offer a new theory of why people take part in collective action in politics, and test it in the contexts of voting and protesting. They develop the idea that just as there are costs of participation in politics, there are also costs of abstention - intrinsic and psychological but no less real. That abstention can be psychically costly helps explain real-world patterns that are anomalies for existing theories, such as that sometimes increases in costs of participation are followed by more participation, not less. The book draws on a wealth of survey data, interviews, and experimental results from a range of countries, including the United States, Britain, Brazil, Sweden, and Turkey.\n\n<br>\n\nAlso published in [Spanish](https://www.amazon.com/PARA-MOLESTARNOS-HACER-NUESTRAS-VOCES/dp/9878010716) ([Siglo XXI Editores](https://sigloxxieditores.com.ar/libro/para-que-molestarnos-en-hacer-oir-nuestras-voces/), 2021) and [Turkish](https://www.amazon.com/Degisir-Secimlere-Protestolara-Katilimi-D%C3%BCs%C3%BCnmek/dp/6057685172/) (Koç University Press, 2020)\n\n<br>\n\n-   Winner, 2020 David O. Sears Best Book on Mass Politics Award, International Society of Political Psychology\n\n<br>\n\n[← Back to all books](/books/index.html)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

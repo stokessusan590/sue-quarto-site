@@ -1,0 +1,575 @@
+- title: "Building Tolerance for Backsliding By Trash Talking Democracy: Theory and Evidence from Mexico"
+  type: "Article"
+  author:
+    - Lautaro Cella 
+    - Ipek Cinar
+    - Susan Stokes
+    - Andres Uribe
+  date: 2025-03-20
+  year: 2025
+  journal: "Comparative Political Studies"
+  pubopen: "https://doi.org/10.1177/00104140251328024"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4C8VGG"
+  pdf: "../files/cps-mexico2025.pdf"
+  appendix: "../files/cps2025-app.pdf"
+  categories:
+    - Democratic Erosion
+    - Latin American Politics
+  abstract: "Leaders who seek to build public toleration for democratic backsliding have a little-noticed strategy at their disposal: degrading their democracies in the eyes of their citizens. If voters can be induced to believe that their democracy is already broken, then nothing of value is lost when leaders attack the courts, vilify the press, or undermine confidence in elections. We call this strategy trash-talking democracy, and study it in the context of contemporary Mexico. We use text-as-data methods to show that President Andrés Manuel López Obrador spent more time trash-talking his democracy than he did deepening partisan polarization. With a survey experiment we show that exposure to López Obrador’s trash-talking of the courts elicits anti-democratic attitudes among Mexicans — both among his supporters and among supporters of the opposition. Strategies to resist backsliding should include not just efforts at de-polarization but also at restoring confidence in democratic institutions."
+
+
+
+
+- title: "Income Inequality and the Erosion of Democracy in the Twenty-First Century"
+  type: "Article"
+  author:
+    - Eli G. Rau
+    - Susan Stokes
+  date: 2025-01-05
+  year: 2025
+  journal: "Proceedings of the National Academy of Sciences"
+  pubopen: "https://www.pnas.org/doi/10.1073/pnas.2422543121"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KTXHGV"
+  pdf: "../files/pnas2025.pdf"
+  appendix: "../files/pnas2025-app.pdf"
+  categories:
+    - Democratic Erosion
+    - Political Economy
+  abstract: "Among the most pressing problems societies face today are economic inequality and the erosion of democratic norms and institutions. In fact the two problems—inequality and democratic erosion—are linked. In a large cross-national statistical study of risk factors for democratic erosion, we establish that economic inequality is one of the strongest predictors of where and when democracy erodes. Even wealthy and longstanding democracies are vulnerable if they are highly unequal (though national wealth might provide some resiliency). The association between inequality and risk of democratic backsliding is robust, and holds under different measures and structures of both income inequality and wealth inequality. The association is unlikely to be a case of reverse causation. For concerned citizens seeking to understand why so many democracies are eroding and how to stop this process, our study indicates that policies for ameliorating inequality are a promising path forward."
+  related: 
+    - "<u>Related Letter</u>: Rau, E.G. and Stokes, S.C. (2025). Reply to Fiscella: Why study erosion now? And why these risk factors? <em>Proceedings of the National Academy of Sciences</em>, 122(12), e2501249122. <a href='https://www.pnas.org/doi/abs/10.1073/pnas.2501249122' target='_blank'>Link</a> / <a href='../files/pnas2025-reply.pdf' target='_blank'>PDF</a>"
+
+
+- title: "Why is Participation Low in Referendums? Lessons from Latin America"
+  type: "Article"
+  author: 
+    - Eli G. Rau
+    - Radha Sarkar
+    - Susan Stokes
+  date: 2025-06-15
+  year: 2025
+  journal: "Latin American Research Review"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EXYX5U"
+  pdf: "../files/larr2025.pdf"
+  appendix: "../files/larr2025-app.pdf"
+  categories:
+    - Participation
+    - Latin American Politics
+    - Institutions
+  abstract: "Whether referendums, initiatives, and other mechanisms of direct democracy enhance representative systems is a matter of debate. Skeptics note — among other criticisms — that turnout tends to be low in referendums, often lower than in candidate elections in the same country. If citizens do not care enough to participate, how useful can these mechanisms be for improving the quality of democratic systems? We argue that low referendum turnout has as much to do with parties’ disincentives to mobilize voters as with voter disinterest. Prior research on political behavior in referendums has focused largely on Europe, and assumes that voters view them as elections of lesser importance. By shifting focus to Latin America, we introduce more variation in the features of political parties that influence levels of turnout. We draw on cross-national evidence, qualitative research in Colombia, and quantitative analysis of municipal-level referendum voting behavior in Brazil. The key to understanding low voter turnout in these settings is the relatively weaker incentives that political parties have to turn out the vote when control over office is not at stake. We demonstrate that, in clientelistic systems, party operatives have particularly weak incentives to get their constituents out to the polls."
+
+
+- title: "The Effect of Electoral Inversions on Democratic Legitimacy: Evidence from the United States"
+  type: "Article"
+  author:
+    - John M. Carey
+    - Gretchen Helmke
+    - Brendan Nyhan
+    - Mitchell Sanders
+    - Susan Stokes
+    - Shun Yamaya
+  year: 2022
+  date: 2022-06-01
+  journal: "British Journal of Political Science"
+  pdf: "../files/bjps2022.pdf"
+  pubopen: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/effect-of-electoral-inversions-on-democratic-legitimacy-evidence-from-the-united-states/2C90A3FB13785C8DCFB52617A023AE8D"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YZZFTK"
+  categories: 
+    - Democratic Erosion
+    - U.S. Politics
+  abstract: "When a party or candidate loses the popular vote but still wins the election, do voters view the winner as legitimate? This scenario, known as an electoral inversion, describes the winners of two of the last six presidential elections in the United States. We report results from two experiments testing the effect of inversions on democratic legitimacy in the US context. Our results indicate that inversions significantly decrease the perceived legitimacy of winning candidates. Strikingly, this effect does not vary with the margin by which the winner loses the popular vote, nor by whether the candidate benefiting from the inversion is a co-partisan. The effect is driven by Democrats, who punish inversions regardless of candidate partisanship; few effects are observed among Republicans. These results suggest that the experience of inversions increases sensitivity to such outcomes among supporters of the losing party."
+
+- title: "Who will defend democracy? Evaluating tradeoffs in candidate support among partisan donors and voters"
+  type: "Article"
+  author: 
+    - John Carey
+    - Katherine Clayton
+    - Gretchen Helmke
+    - Brendan Nyhan
+    - Mitchell Sanders
+    - Susan Stokes
+  year: 2022
+  date: 2022-05-01
+  journal: "Journal of Elections, Public Opinion, and Parties"
+  pdf: "../files/jepop2022.pdf"
+  pubclosed: "https://www.tandfonline.com/doi/abs/10.1080/17457289.2020.1790577"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MRWYC2"
+  categories:
+    - Democratic Erosion
+  abstract: "Scholars and pundits fear that the American public’s commitment to democracy is declining and that citizens are willing to embrace candidates who would trample democratic principles. We examine whether violations of those principles generate resistance from voters and/or top campaign donors and whether such resistance extends across partisan lines. In a conjoint survey experiment, we investigate how regular Americans and donor elites trade off partisanship, policy positions, and support for democratic values when choosing between hypothetical political candidates. Our findings indicate that both citizens and donors punish candidates who endorse violations of democratic principles irrespective of the candidate’s party. However, partisans react very differently to candidates who support voter identification laws that threaten access to the franchise. This polarized response is especially strong among donors. These results suggest that the public and donors may sometimes be willing to forgive transgressions against democratic norms that align with their partisan and policy preferences."
+
+
+- title: "Presidential Rhetoric and Populism"
+  type: "Article"
+  author: 
+    - Ipek Çinar
+    - Susan Stokes
+    - Andres Uribe
+  year: 2020
+  date: 2020-06-01
+  journal: "Presidential Studies Quarterly"
+  pdf: "../files/psq2020.pdf"
+  pubclosed: "https://onlinelibrary.wiley.com/doi/abs/10.1111/psq.12656"
+  categories:
+    - Democratic Erosion
+  abstract: "Scholars and the general public have been struck by the norm-shattering rhetoric of President Donald J. Trump. His <q>rhetorical signature</q> is heavy with Manichean good-versus-evil messages, vilification of his opponents, and disdain for institutions and for evidence. But many politicians vilify their opponents and style themselves as uniquely able to solve their society’s problems. In fact, Trump’s Manichean discourse is typical of populist leaders, in the United States and around the world. Using text-as-data analysis of campaign rhetoric, we study the content and mood of presidential campaign speeches by a range of U.S. politicians, which allows a broader perspective not only on the uniqueness of Trump’s rhetoric, but also its continuities with the rhetoric of others. This analysis allows us to define Trump as a right-wing populist. Right-wing populists, like left-leaning ones, are anti-elitist and Manichean in words and outlook. However, the two versions of populism differ in the nature of the anti-elitism, with right-wing populists targeting political elites and left-wing ones targeting economic elites. Right-wing populists also define the <q>other</q> as ethnic out-groups, who threaten the ethnically pure <q>people.</q>"
+
+
+- title: "Searching for Bright Lines in the Trump Presidency"
+  type: "Article"
+  author: 
+    - John Carey
+    - Gretchen Helmke
+    - Brendan Nyhan
+    - Mitchell Sanders
+    - Susan Stokes
+  year: 2019
+  date: 2019-06-01
+  journal: "Perspectives on Politics"
+  pdf: "../files/pop2019.pdf"
+  pubopen: "https://www.cambridge.org/core/journals/perspectives-on-politics/article/searching-for-bright-lines-in-the-trump-presidency/CB5F40CBC27EDA75F4D7FC7F171E6880"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IYWXMF"
+  categories:
+    - Democratic Erosion
+    - U.S. Politics
+  abstract: "Is American democracy under threat? The question is more prominent in political debate now than at any time in recent memory. However, it is also too blunt; there is widespread recognition that democracy is multifaceted and that backsliding, when it occurs, tends to be piecemeal. To address these concerns, we provide original data from surveys of political science experts and the public measuring the perceived importance and performance of U.S. democracy on a number of dimensions during the first year-and-a-half of the Trump presidency. We draw on a theory of how politicians may transgress limits on their authority and the conditions under which constraints are self-enforcing. We connect this theory to our survey data in an effort to identify potential areas of agreement—bright lines—among experts and the public about the most important democratic principles and whether they have been violated. Public and expert perceptions often differ on the importance of specific democratic principles. In addition, though our experts perceive substantial democratic erosion, particularly in areas related to checks and balances, polarization between Trump supporters and opponents undermines any social consensus recognizing these violations."
+
+
+- title: "Beyond Opportunity Costs: Campaign Messages, Anger, and Turnout among the Unemployed"
+  type: "Article"
+  author:
+    - S. Erdem Aytaç
+    - Eli G. Rau
+    - Susan Stokes
+  year: 2020
+  date: 2020-09-01
+  journal: "British Journal of Political Science"
+  pdf: "../files/bjps2020.pdf"
+  pubopen: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/beyond-opportunity-costs-campaign-messages-anger-and-turnout-among-the-unemployed/444928192590BEE9B4FB47BB4B7507D9"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/USKUR2&widget=dataverse@harvard"
+  appendix: "../files/bjps2020-app.pdf"
+  categories: 
+    - Participation
+    - Political Economy
+  abstract: "Are people under economic stress more or less likely to vote, and why? With large observational datasets and a survey experiment involving unemployed Americans, we show that unemployment depresses participation. But it does so more powerfully when the unemployment rate is low, less powerfully when it is high. Whereas earlier studies have explained lower turnout among the unemployed by stressing the especially high opportunity costs these would-be voters face, our evidence points to the psychological effects of unemployment and of campaign messages about it. When unemployment is high, challengers have an incentive to blame the incumbent, thus eliciting anger among the unemployed. Psychologists have shown anger to be an approach or mobilizing emotion. When joblessness is low, campaigns tend to ignore it. The jobless thus remain in states of depression and self-blame, which are demobilizing emotions."
+
+- title: "Why do People Join Backlash Movements? Lesson from Turkey"
+  type: "Article"
+  author: 
+    - Erdem Aytaç
+    - Luis Schiumerini
+    - Susan Stokes
+  year: 2018
+  date: 2018-06-01
+  journal: "Journal of Conflict Resolution"
+  pdf: "../files/jcr2018.pdf"
+  pubclosed: "https://journals.sagepub.com/doi/abs/10.1177/0022002716686828"
+  categories:
+    - Participation
+  abstract: "When people learn that demonstrators are being subjected to harsh treatment by the police, sometimes their reaction is to join demonstrations. What explains the potentially mobilizing power of repression? Information-oriented theories posit that repression changes people’s beliefs about the likely success of the protests or the type of the government, thus encouraging them to join. Social–psychological theories posit that repression provokes a moral and emotional reaction from bystanders, and these emotional reactions are mobilizing. Our research offers a rare opportunity to test these theories, empirically, against one another. We offer experimental evidence from Turkey after the 2013 Gezi uprising. In this setting, emotional reactions appear to be the link between repression and backlash mobilization. Information-oriented theories of backlash mobilization may be less germane in democracies, in which people already have access to information about their governments, and in highly polarized polities, in which few people’s political affinities are up for grabs."
+  
+- title: "Protests and Repression in New Democracies"
+  type: "Article"
+  author:
+    - Erdem Aytaç
+    - Luis Schiumerini
+    - Susan Stokes
+  year: 2017
+  date: 2017-05-01
+  journal: "Perspectives on Politics"
+  pdf: "../files/perspectives2017.pdf"
+  pubclosed: "https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/protests-and-repression-in-new-democracies/E99269D609B4F3DD1231BD36E44C5BF4"
+  categories:
+    - Participation
+  abstract: "Elected governments sometimes deal with protests by authorizing the police to use less-lethal tools of repression: water cannons, tear gas, rubber bullets, and the like. When these tactics fail to end protests and instead spark larger, backlash movements, some governments reduce the level of violence but others increase it, causing widespread injuries and loss of life. We study three recent cases of governments in new democracies facing backlash movements. Their decision to scale up or scale back police repression reflected the governments’ levels of electoral security. Secure governments with relatively unmovable majorities behind them feel freer to apply harsh measures. Less secure governments, those with volatile electoral support, contemplate that their hold on power might weaken should they inflict very harsh treatment on protesters; they have strong incentives to back down. Our original survey research and interviews with civilian authorities, police officials, and protest organizers in Turkey, Brazil, and Ukraine allow us to evaluate this explanation as well as a number of rival accounts. Our findings imply that elected governments that rest on very stable bases of support may be tempted to deploy tactics more commonly associated with authoritarian politics."
+  
+- title: "Catalyst or Cause? Legislation and the Demise of Machine Politics in Britain and the United States"
+  type: "Article"
+  author:
+    - Edwin Camp
+    - Avinash Dixit
+    - Susan Stokes
+  year: 2014
+  date: 2014-06-01
+  journal: "Legislative Studies Quarterly"
+  pubclosed: "https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12058"
+  pdf: "../files/lsq2014.pdf"
+  appendix: "../files/lsq2014-app.pdf"
+  categories:
+    - Clientelism
+  abstract: "In the nineteenth century, British and American parties competed by hiring electoral agents to bribe and treat voters. British parties abruptly abandoned this practice in the 1880s. The conventional explanation is that legislation put an end to agent-mediated distribution. But this explanation leaves many questions unanswered. Why did the parties use agents for decades, even though they imposed great expense on candidates and were viewed as untrustworthy? And why, after decades of half-hearted reforms, did the House of Commons pass effective antibribery reforms only in 1883? In our formal model, parties hire agents to solve information problems, but agent-mediated distribution can be collectively suboptimal. Legislation can serve as a credibility device for shifting to less costly strategies."
+
+- title: "Monopoly and Monitoring: An Approach to Political Clientelism"
+  type: "Chapter"
+  author: 
+    - Luis Fernando Medina
+    - Susan Stokes
+  year: 2007
+  date: 2007-06-01
+  bookauthor: "Herbert Kitschelt and Steven Wilkinson, eds."
+  booktitle: "Patrons, Clients, and Policies"
+  bookpublisher: "Cambridge University Press"
+  buypublisher: "https://www.cambridge.org/core/books/patrons-clients-and-policies/D4563A6CFFB2076C11E910568C5B2CE2"
+  categories:
+    - Clientelism
+
+- title: "Is Vote Buying Undemocratic?"
+  type: "Chapter"
+  author:
+    - Susan Stokes
+  year: 2007
+  date: 2007-05-01
+  bookauthor: "Frederic C. Schaffer, ed."
+  booktitle: "Elections for Sale: The Causes and Consequences of Vote Buying"
+  bookpublisher: "Lynne Rienner"
+  buypublisher: "https://www.rienner.com/title/Elections_for_Sale_The_Causes_and_Consequences_of_Vote_Buying"
+  categories:
+    - Clientelism
+    
+- title: "Political Clientelism"
+  type: "Chapter"
+  author:
+    - Susan Stokes
+  year: 2007
+  date: 2007-04-01
+  bookauthor: "Carles Boix and Susan C. Stokes, eds."
+  booktitle: "Oxford Handbook of Comparative Politics"
+  bookpublisher: "Oxford University Press"
+  buypublisher: "https://academic.oup.com/edited-volume/28345"
+  categories:
+    - Clientelism
+
+- title: "Perverse Accountability: A Formal Model of Machine Politics with Evidence from Argentina."
+  type: "Article"
+  author:
+    - Susan Stokes
+  year: 2005
+  date: 2005-06-01
+  journal: "American Political Science Review"
+  pubclosed: "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/perverse-accountability-a-formal-model-of-machine-politics-with-evidence-from-argentina/A2A7141AA5EC213E6C5FAFD86FBCC859"
+  pdf: "../files/apsr2005.pdf"
+  categories:
+    - Clientelism
+    - Argentina
+  abstract: "Political machines (or clientelist parties) mobilize electoral support by trading particularistic benefits to voters in exchange for their votes. But if the secret ballot hides voters' actions from the machine, voters are able to renege, accepting benefits and then voting as they choose. To explain how machine politics works, I observe that machines use their deep insertion into voters' social networks to try to circumvent the secret ballot and infer individuals' votes. When parties influence how people vote by threatening to punish them for voting for another party, I call this accountability. I analyze the strategic interaction between machines and voters as an iterated prisoners' dilemma game with one-sided uncertainty. The game generates hypotheses about the impact of the machine's capacity to monitor voters, and of voters' incomes and ideological stances, on the effectiveness of machine politics. I test these hypotheses with data from Argentina."
+  related: 
+    - "Heinz Eulau Prize for Best Article in the <em>American Political Science Review</em>"
+    
+- title: "Vote Buying in Argentina"
+  type: "Article"
+  author:
+    - Valeria Brusco
+    - Marcelo Nazareno
+    - Susan Stokes
+  year: 2004
+  date: 2004-06-01
+  journal: "Latin American Research Review"
+  pdf: "../files/larr2004.pdf"
+  pubclosed: "https://www.cambridge.org/core/journals/latin-american-research-review/article/vote-buying-in-argentina/0E6DDCD3ECBD98210D57D006EDC668CF"
+  categories: 
+    - Clientelism
+    - Argentina
+  abstract: "We analyze vote buying in Argentina—the payment by political parties of minor benefits (food, clothing, cash) to citizens in exchange for their votes. How widespread is vote buying in Argentina, and what is the profile of the typical vote <q>seller</q>? Did the shift toward a neoliberal economic model in the 1990s increase or reduce vote buying? Why do parties attempt to buy votes when the ballot is secret and people could simply accept campaign handouts and then vote as they wish? We analyze responses to surveys we conducted in Argentina in 2002 and offer answers to these questions. Our findings suggest that vote buying is an effective strategy for mobilizing electoral support among low-income people when parties are able to monitor voters' actions, make reasonably accurate inferences about how individuals voted, and credibly threaten to punish voters who defect from the implicit clientelist bargain. Our results point toward ballot reform as one way to reduce vote buying in Argentina."
+
+- title: "Apuntes para la investigación del clientelismo en Argentina."
+  type: "Article"
+  author:
+    - Valeria Brusco
+    - Marcelo Nazareno
+    - Susan Stokes
+  year: 2002
+  date: 2002-06-01
+  journal: "Revista de la Sociedad Argentina de Análisis Político (SAAP)"
+  categories:
+    - Clientelism
+    - Argentina
+    - Spanish-language
+
+- title: "Democracy, Interrupted: Regime Change and Partisanship in Twentieth-Century Argentina"
+  type: "Article"
+  author:
+    - Noam Lupu
+    - Susan Stokes
+  year: 2010
+  date: 2010-06-01
+  journal: "Electoral Studies"
+  pubclosed: "https://www.sciencedirect.com/science/article/pii/S0261379409000894"
+  categories:
+    - Parties
+    - Argentina
+  abstract: "Electoral volatility is much higher in new than in advanced democracies. Some scholars contend that weak partisan ties among the electorate lie behind this high volatility. Political parties in new democracies do not invest in building strong linkages with voters, they claim; hence partisanship is not widespread, nor does it grow over time. Our view is that democratic processes do encourage the spread of partisanship and hence the stabilization of electoral outcomes over time in new democracies. But this dynamic can be masked by countervailing factors and cut short by regime instability. We expect that, all else being equal, volatility will decline over time as a new democracy matures but increase again when democracy is interrupted. We use disaggregated ecological data from Argentina over nearly a century to show that electoral stability grows during democratic periods and erodes during dictatorships."
+
+- title: "The Social Bases of Political Parties in Argentina, 1912-2003"
+  type: "Article"
+  author:
+    - Noam Lupu
+    - Susan Stokes
+  year: 2009
+  date: 2009-06-01
+  journal: "Latin American Research Review"
+  pubopen: "https://www.cambridge.org/core/journals/latin-american-research-review/article/social-bases-of-political-parties-in-argentina-19122003/96E559952E4E4DEC17215F004794DD87"
+  categories:
+    - Parties
+    - Argentina
+  abstract: "To what extent has the Argentine party system been polarized along class lines? The political historiography gives mixed and contradictory answers to this question. We explore the social bases of Argentina's political parties using an original database, the most comprehensive database of Argentine elections yet assembled, and new methods of ecological inference that yield more reliable results than previous analyses. We identify two distinct party systems, one in place between 1912 and 1940, the other emerging after 1946. The first party system was not consistently class based, but the second was, with the Radical Party representing the middle classes and the Peronists, workers and the poor. Still, there were important exceptions. Lower-class support for the Peronists, as proxied by literacy rates, declined during Perón's exile, which implies that the party had trouble mobilizing lower-class illiterate voters. Since the return to democracy in 1983, class polarization has again found some expression in the party system."
+
+- title: "Political Parties and Democracy"
+  type: "Article"
+  author:
+    - Susan Stokes
+  year: 1999
+  date: 1999-06-01
+  journal: "Annual Review of Political Science"
+  pdf: "../files/annual-review1999.pdf"
+  pubclosed: "https://www.annualreviews.org/content/journals/10.1146/annurev.polisci.2.1.243"
+  categories:
+    - Parties
+  abstract: "A central claim of democratic theory is that democracy induces governments to be responsive to the preferences of the people. Political parties organize politics in every modern democracy, and some observers claim that parties are what induce democracies to be responsive. Yet, according to others, parties give voice to extremists and reduce the responsiveness of governments to the citizenry. The debate about parties and democracy takes on renewed importance as new democracies around the globe struggle with issues of representation and governability. I show that our view of the impact of parties on democratic responsiveness hinges on what parties are—their objectives and organization. I review competing theories of parties, sketch their testable implications, and note the empirical findings that may help adjudicate among these theories. I also review debates about the origins of parties, about the determinants of party-system size and characteristics, and about party competition."
+
+- title: "¿Son los partidos políticos el problema de la América Latina?"
+  type: "Article"
+  author: 
+    - Susan Stokes
+  year: 1998
+  date: 1998-06-01
+  journal: "Política y Gobierno"
+  pdf: "../files/politica_y_gobierno1998.pdf"
+  pubclosed: "http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/509"
+  categories:
+    - Parties
+    - Spanish-language
+  abstract: "Los estudiosos responsabilizan a los partidos políticos débiles y a los sistemas de partidos volátiles de las deficiencias de las democracias latinoamericanas. Entre éstas se encuentra la decir, la tendencia de los políticos a pronunciarse a favor de ciertas políticas durante las campañas y luego a abandonarlas una vez que están en el poder. Sin embargo, la teoría política y la experiencia de América Latina plantean expectativas contradictorias: que los partidos fuertes pueden aumentar la capacidad de respuesta y que pueden reducirla. Los estudios de caso y el análisis estadístico de datos nacionales presentados en este artículo muestran que tanto los partidos débiles en sistemas volátiles como los partidos fuertes en sistemas estables realizaron drásticos y tempranos cambios de políticas. Para comprender estos cambios, debemos ver más allá de las deficiencias de los partidos políticos. Se concluye con algunas reflexiones acerca de la conveniencia normativa de la respuesta al mandato popular."
+
+- title: "When Do the Wealthy Support Redistribution? Inequality Aversion in Buenos Aires"
+  type: "Article"
+  author:
+    - Germán Feierherd
+    - Luis Schiumerini
+    - Susan Stokes
+  year: 2017
+  date: 2017-05-15
+  journal: "British Journal of Political Science"
+  pubclosed: "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/when-do-the-wealthy-support-redistribution-inequality-aversion-in-buenos-aires/FA1E9E1AF6D469601D33E0207228DC74"
+  pdf: "../files/bjps2017.pdf"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/THXYMC"
+  categories:
+    - Political Economy
+    - Argentina
+
+- title: "Réditos y peligros electorales del gasto público en Argentina"
+  type: "Article"
+  author: 
+    - Valeria Brusco
+    - Marcelo Nazareno
+    - Susan Stokes
+  year: 2006
+  date: 2006-05-15
+  journal: "Desarollo Económico"
+  pdf: "../files/desarollo2006.pdf"
+  pubclosed: "https://www.jstor.org/stable/4151101"
+  categories:
+    - Political Economy
+    - Argentina
+    - Spanish-language
+
+- title: "Endogenous Democratization"
+  type: "Article"
+  author: 
+    - Carles Boix
+    - Susan Stokes
+  year: 2003
+  date: 2003-09-01
+  journal: "World Politics"
+  pubclosed: "https://www.cambridge.org/core/journals/world-politics/article/abs/endogenous-democratization/B813380A747708BE21A0B28742640EBA"
+  categories:
+    - Political Economy
+    - Democratization
+  abstract: "The authors show that economic development increases the probability that a country will undergo a transition to democracy. These results contradict the finding of Przeworski and his associates, that development causes democracy to last but not to come into existence in the first place. By dealing adequately with problems of sample selection and model specification, the authors discover that economic growth does cause nondemocracies to democratize. They show that the effect of economic development on the probability of a transition to democracy in the hundred years between the mid-nineteenth century and World War II was substantial, indeed, even stronger than its effect on democratic stability. They also show that, in more recent decades, some countries that developed but remained dictatorships would, because of their development, be expected to democratize in as few as three years after achieving a per capita income of $12,000 per capita."
+  
+- title: "Public Opinion and the Political Logic of Neoliberalism"
+  type: "Chapter"
+  author:
+    - Susan Stokes
+  year: 1999
+  date: 1999-02-01
+  bookauthor: "Fernando Tuesta, ed."
+  booktitle: "Fujimori, 1990-1999"
+  bookpublisher: "Lima: Friedrick Ebert"
+  categories:
+    - Political Economy
+    - Peru
+    - Public Opinion
+    
+- title: "Public Opinion and Market Reforms: The Limits of Economic Voting."
+  type: "Article"
+  author: 
+    - Susan Stokes
+  year: 1996
+  date: 1996-08-01
+  journal: "Comparative Political Studies (Introduction to special issue, Public Opinion and Market Reforms in New Democracies)"
+  pdf: "../files/cps-intro1996.pdf"
+  pubclosed: "https://journals.sagepub.com/doi/abs/10.1177/0010414096029005001"
+  categories:
+    - Political Economy
+    - Public Opinion
+  abstract: "The broadly held view that promarket reforms are good for most people is in conflict with the equally broadly held view that, in democracies, reforms will generate widespread resistance. Resistance is expected because reforms typically produce economic downturns, at least over the short term. Under normal circumstances, we expect citizens to withdraw support from governments during periods of economic decline. If citizens withdraw support, then governments, worried about the next election, may abandon reforms. But our expectations should be different of new democracies pursuing promarket reforms. Citizens may believe governments when they claim that things have to get worse before they get better or that economic stagnation is the fault of the past model. Research in Poland, Peru, and Mexico, reported in this special issue, supports these expectations. Hence under democracy there is more scope for support of painful reforms than frequently acknowledged."
+  
+- title: "Democratic Accountability and Policy Change: Economic Policy in Fujimori's Peru."
+  type: "Article"
+  author:
+    - Susan Stokes
+  year: 1997
+  date: 1997-02-01
+  journal: "Comparative Politics"
+  pdf: "../files/cp1997.pdf"
+  pubclosed: "https://www.jstor.org/stable/422080"
+  categories:
+    - Political Economy
+    - Accountability
+    - Peru
+
+- title: "Economic Reform and Public Opinion in Peru, 1990-1995."
+  type: "Article"
+  author:
+    - Susan Stokes
+  year: 1996
+  date: 1996-01-20
+  journal: "Comparative Political Studies"
+  pdf: "../files/cps-peru1996.pdf"
+  pubclosed: "https://journals.sagepub.com/doi/abs/10.1177/0010414096029005003"
+  categories:
+    - Political Economy
+    - Peru
+    - Public Opinion
+  abstact: "Even if they are confident that prosperity lies just over the horizon, politicians who embark on promarket reforms know they are in for some stormy weather. How will they fare in voters' eyes once the pain is felt? Will voters inevitably turn against politicians who impose painful measures without an electoral mandate to do so? The story of economic reform and public opinion in Peru under Alberto Fujimori (1990-1995) poses just these questions. The author uses monthly public opinion polls and monthly economic data to analyze the impact of economic changes during Fujimori's reform program on opinions of the reforms and the president. The author finds that Limeños withdrew support from the program and the president when employment fell and inflation rose, responses consistent with the findings of the economic voting literature. But when real wages fell, they became optimistic about the future and more likely to support reforms and the government."
+
+- title: "Accountability for Realists."
+  type: "Article"
+  author:
+    - Susan Stokes
+  year: 2018
+  date: 2018-02-02
+  journal: "Critical Review"
+  pubclosed: "https://www.tandfonline.com/doi/abs/10.1080/08913811.2018.1473111"
+  categories:
+    - Accountability
+  Abstract: "In Democracy for Realists, Christopher Achen and Larry Bartels argue that voters are shortsighted and punish incumbents for politically irrelevant outcomes. These failings, in the authors’ view, mean that voters are incapable of holding politicians to account. But Achen and Bartels overstate voters’ failure to engage in effective retrospective voting. The authors also understate the degree to which accountability can be compatible with voters’ being myopic, such as when early- and late-term performance are correlated. Achen and Bartels also overlook evidence that the American state acted as an insurer against social risk long before the New Deal, a fact that points to voters using relevant criteria (not irrelevant ones) when they appear to punish incumbents for natural disasters. Finally, while accountability is an important consequentialist reason for democracy, we should keep in mind non-consequentialist justifications for this system of government, in particular its instantiation of political equality."
+
+- title: "Calidad democrática en los gobiernos locales: gasto público y elecciones municipales en la Argentina de los 90."
+  type: "Article"
+  author:
+    - Valeria Brusco
+    - Marcelo Nazareno
+  year: 2003
+  date: 2003-02-01
+  journal: "Política y Gestión"
+  categories:
+    - Argentina
+    - Spanish-language
+
+- title: "Constituency Influence and Representation."
+  type: "Article"
+  author:
+    - Susan Stokes
+  year: 1998
+  date: 1998-01-25
+  journal: "Electoral Studies"
+  pdf: "../files/electoral1998.pdf"
+  pubclosed: "https://doi.org/10.1016/S0261-3794(98)00034-1"
+  abstract: "In their classic study <q>Constituency Influence in Congress</q>, Miller and Stokes (1966) equated representation with responsiveness to constituent opinion. But when constituents are uncertain about the effects of policies and when they may come to favor a policy which they opposed before its implementation, politicians may represent constitutent's interests even though they are unresponsive to their ex ante preferences. Several Latin American governments that switched to unpopular policies early in their terms did so because they thought citizens were ill-informed and their preferences would change. Even though we should consider such policy switches as carried out by governments that are attempting to represent, we should not return to a Burkean ideal whereby legislators do what they deem best regardless of the will of their constituents."
+
+- title: "Politics and Latin America's Urban Poor: Reflections from a Lima Shantytown."
+  type: "Article"
+  author: 
+    - Susan Stokes
+  year: 1991
+  date: 1991-05-01
+  journal: "Latin American Research Review"
+  pdf: "../files/larr1991.pdf"
+  pubclosed: "https://www.cambridge.org/core/journals/latin-american-research-review/article/politics-and-latin-americas-urban-poor-reflections-from-a-lima-shantytown/5E3A633979AFA482A97D617F542476C1"
+  categories:
+    - Peru
+  abstract: "In the early 1970s, Wayne Cornelius asked, <q>Are the migrant masses revolutionary? Definitely not, at least in Latin America and many other parts of the developing world.</q> These words summarized an emerging revisionist view of the political character of Latin America's new urban poor. Careful empirical research had proved wrong previous scholars and observers who had expected the new migrant populations in Latin America's cities to become sources of support for revolutionary political movements. A new picture of the inhabitants of Latin America's burgeoning shantytowns came into focus, showing these populations to be either passive or loyally engaged in the surrounding political system. According to this picture, squatters held considerable hope for individual advancement, forged clientelistic ties with government officials, and showed few signs of joining radicalized, class-conscious social movements."
+
+- title: "Hegemony, Consciousness, and Political Change in Peru."
+  type: "Article"
+  author: 
+    - Susan Stokes
+  year: 1991
+  date: 1991-04-20
+  journal: "Politics and Society"
+  pdf: "../files/politics_and_society1991.pdf"
+  pubclosed: "https://journals.sagepub.com/doi/abs/10.1177/003232929101900301"
+  categories:
+    - Peru
+
+- title: "Soccer and Social Change in Early 20th-Century Peru."
+  type: "Article"
+  author:
+    - José Deustua
+    - Steve Stein
+    - Susan Stokes
+  year: 1984
+  date: 1984-06-01
+  journal: "Journal of Latin American Popular Culture"
+  categories:
+    - Peru
+    
+- title: "A Defense of Observational Research"
+  type: "Chapter"
+  author:
+    - Susan Stokes
+  year: 2014
+  date: 2014-03-01
+  bookauthor: "Dawn Teele, ed."
+  booktitle: "Field Experiments and Their Critics"
+  bookpublisher: "Yale University Press"
+  pdf: "../files/Stokes_Observational_Research.pdf"
+  buypublisher: "https://yalebooks.yale.edu/book/9780300169409/field-experiments-and-their-critics/"
+  categories:
+    - Methods
+
+- title: "Region, Contingency, and Democratization."
+  type: "Chapter"
+  author:
+    - Susan Stokes
+  year: 2007
+  date: 2007-03-01
+  bookauthor: "Ian Shapiro, ed."
+  booktitle: "Political Contingency"
+  bookpublisher: "NYU Press"
+  buypublisher: "https://nyupress.org/9780814740446/political-contingency/"
+  categories: 
+    - Democratization
+    
+- title: "Do Informal Rules Make Democracy Work? Accounting for Accountability in Argentina."
+  type: "Chapter"
+  author: 
+    - Susan Stokes
+  year: 2006
+  date: 2006-04-01
+  bookauthor: "Gretchen Helmke and Steven Levitsky, eds."
+  booktitle: "Informal Institutions and Democracy"
+  bookpublisher: "Johns Hopkins Press"
+  buypublisher: "https://www.press.jhu.edu/books/title/9015/informal-institutions-and-democracy"
+  categories:
+    - Accountability
+    - Argentina
+    
+- title: "Ingreso, región, y calidad de la democracia en Argentina"
+  type: "Chapter"
+  author:
+    - Valeria Brusco
+    - Marcelo Nazareno
+    - Susan Stokes
+  year: 2005
+  date: 2005-02-03
+  bookauthor: "Samuel Amaral and Susan Stokes, eds."
+  booktitle: "La Democracia local en Argentina Buenos Aires"
+  bookpublisher: "Tres de Febrero"
+  categories:
+    - Spanish-language
+    - Argentina
+
+
+

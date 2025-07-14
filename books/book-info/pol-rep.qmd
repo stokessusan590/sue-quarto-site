@@ -1,0 +1,20 @@
+---
+title: "Political Representation"
+author: 
+  - Ian Shapiro
+  - Susan C. Stokes
+  - Elisabeth Jean Wood
+  - Alexander S. Kirshner
+year: 2010
+publisher: Princeton University Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://www.cambridge.org/core/books/political-representation/2AD2323FB8FCDA4341F42D28FBF9474E" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+Political representation lies at the core of modern politics. Democracies, with their vast numbers of citizens, could not operate without representative institutions. Yet relations between the democratic ideal and the everyday practice of political representation have never been well defined and remain the subject of vigorous debate among historians, political theorists, lawyers, and citizens. In this volume, an eminent group of scholars move forward the debates about political representation on a number of fronts. Drawing on insights from political science, history, political theory, economics, and anthropology, the authors provide much-needed clarity to some of the most vexing questions about political representation. They also reveal new and enlightening perspectives on this fundamental political practice. Topics discussed include representation before democracy, political parties, minorities, electoral competition, and ideology. This volume is essential reading for anyone interested in the ideal and the reality of political representation.
+
+[← Back to all books](/books/index.html)

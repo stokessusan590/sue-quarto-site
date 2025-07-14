@@ -1,0 +1,35 @@
+```{=html}
+
+<div id="press-mentions">
+  <% for (const item of items) { %>
+    <a href="<%= item.url %>" target="_blank" rel="noopener noreferrer" class="project-card">
+      <div class="project-image">
+        <img src="<%= item.image %>" alt="<%= item.title %> logo" loading="lazy" />
+      </div>
+      <div class="project-content">
+        <div class="title-subtitle-wrapper">
+          <h3><%= item.title %></h3>
+          <% if (item.subtitle) { %>
+            <p class="project-subtitle"><%= item.subtitle %></p>
+          <% } %>
+          <% if (item.description) { %>
+            <p class="project-description"><%= item.description %></p>
+          <% } %>
+        </div>
+
+<div class="project-footer">
+  <% if (item.categories && item.categories.length > 0) { %>
+    <span class="project-categories"><%= item.categories.join(", ") %></span>
+  <% } %>
+
+  <% if (item.date) { %>
+    <span class="project-date"><%= new Date(item.date).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }) %></span>
+  <% } %>
+</div>
+      </div>
+    </a>
+  <% } %>
+</div>
+
+
+```

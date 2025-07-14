@@ -1,0 +1,18 @@
+---
+title: "Susan Stokes"
+about:
+  template: trestles
+  image: "images/Stokes_headshot.jpg"
+  image-width: 15em
+  links:
+    - icon: envelope-fill
+      text: Email
+      href: mailto:sstokes@uchicago.edu
+    - icon: google
+      text: Scholar
+      href: "https://scholar.google.com/citations?user=1HYSDzkAAAAJ"
+---
+
+I am the Tiffany and Margaret Blake Distinguished Service Professor of Political Science at the [University of Chicago](https://political-science.uchicago.edu/) and Director of the [Chicago Center on Democracy](https://democracy.uchicago.edu/). I have written or coauthored six books on topics including democratic theory, distributive politics and clientelism, political behavior and participation, democratic erosion, and Latin American politics. I am President-elect of the [American Political Science Association](https://apsanet.org/) and a member of the [National Academy of Sciences](https://www.nasonline.org/member-directory/members/20051950.html) and the [American Academy of Arts Sciences](https://www.amacad.org/person/susan-carol-stokes). I am past chair of APSA's Comparative Politics and Democracy and Autocracy Sections, past chair of the Yale Political Science Department, and a founding member of [Bright Line Watch](https://brightlinewatch.org/).
+
+My latest book, forthcoming in 2025, is entitled [*The Backsliders: Why Leaders Undermine Their Own Democracies*](book-trashtalk.html). It offers an explanation for the wave of democratic erosion or backsliding that has affected many countries in the early 21st century, including the United States, several European countries, and others in the Global South. I identify factors that put democracies at risk. I also suggest strategies for resisting erosion and for repairing democratic institutions after backsliding leaders are no longer in power. *The Backsliders* uses state-of-the-art social science techniques and data, but is written so as to be accessible to students and the general public.

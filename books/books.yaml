@@ -1,0 +1,71 @@
+- title: "The Backsliders"
+  pagelink: book-info/backsliders.html
+  cover: book-covers/backsliders.png
+  date: 2025-09-09
+  type: book
+
+- title: "Why Bother?"
+  pagelink: book-info/whybother.html
+  cover: book-covers/whybother.jpg
+  date: 2019-01-01
+  type: book
+  
+- title: "Brokers, Voters, and Clientelism"
+  pagelink: book-info/brokers.html
+  cover: book-covers/brokers.jpg
+  date: 2013-01-01
+  type: book
+  
+- title: "Democracy and the Culture of Skepticism"
+  pagelink: book-info/skepticism.html
+  cover: book-covers/skepticism.jpg
+  date: 2006-01-01
+  type: book
+  
+- title: "Mandates and Democracy"
+  pagelink: book-info/mandates.html
+  cover: book-covers/mandates.jpg
+  date: 2001-01-01
+  type: book
+  
+- title: "Cultures in Conflict" 
+  pagelink: book-info/peru.html
+  cover: book-covers/peru.jpeg
+  date: 1995-01-01
+  type: book
+
+- title: "Political Representation"
+  pagelink: book-info/pol-rep.html
+  cover: book-covers/pol-rep.jpg
+  date: 2010-09-10
+  type: volume
+  
+- title: "Designing Democratic Government"
+  pagelink: book-info/designing.html
+  cover: book-covers/designing.jpg
+  date: 2008-01-01
+  type: volume
+
+- title: "The Oxford Handbook of Comparative Politics"
+  pagelink: book-info/handbook.html
+  cover: book-covers/handbook.jpg
+  date: 2009-01-01
+  type: volume
+  
+- title: "Democracia Local: Clientelismo, capital social e innovación política en la Argentina"
+  pagelink: book-info/democracia.html
+  cover: book-covers/democracia.jpg
+  date: 2005-01-01
+  type: volume
+
+- title: "Public Support for Market Reforms in New Democracies"
+  pagelink: book-info/market-reforms.html
+  cover: book-covers/market-reforms.jpg
+  date: 2001-01-01
+  type: volume
+  
+- title: "Democracy, Accountability, and Representation"
+  pagelink: book-info/dar.html
+  cover: book-covers/dar.jpg
+  date: 1999-01-01
+  type: volume

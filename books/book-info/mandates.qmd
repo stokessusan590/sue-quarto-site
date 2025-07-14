@@ -1,0 +1,23 @@
+---
+title: "Mandates and Democracy: Neoliberalism by Surprise in Latin America"
+author: 
+  - Susan C. Stokes
+year: 2001
+publisher: Cambridge University Press
+filters: ["add-publisher.lua"]
+format:
+  html:
+    title-block-style: default
+---
+
+<a role="button" href="https://www.cambridge.org/core/books/mandates-and-democracy/7FF70EAAA39EC9A7312D266FEC400B81" type="button" class="btn btn-outline-secondary btn-xs"> <i class="bi bi-cart3 ai-lg"></i> Purchase here </a>
+
+Sometimes politicians run for office promising one set of policies, and if they win, switch to very different ones. Latin American presidents in recent years have frequently run promising to avoid pro-market reforms and harsh economic adjustment, then win and transform immediately into enthusiastic market reformers. Does it matter when politicians ignore the promises they made and the preferences of their constituents? If politicians want to be reelected or see their party reelected at the end of their term, why would they impose unpopular policies? Susan Stokes develops a model of policy switches and tests it with statistical and qualitative data from Latin American elections over the last two decades. She concludes that politicians may change policies because unpopular policies are best for constituents and best serve their own political ambitions. Nevertheless, even though good representatives sometimes switch policies, abrupt change tends to erode the quality of democracy.
+
+-   Co-Winner, 2002 Mattei Dogan Foundation Prize in European Political Sociology, Society of Comparative Research
+
+-   Winner, 2003 Best Book Award, Comparative Democratization Section, American Political Science Association
+
+-   Winner, 2016 George H. Hallett Award, Representation and Electoral Systems Section, American Political Science Association
+
+[← Back to all books](/books/index.html)

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Susan Stokes"
+  navbar:
+    left:
+      - text: "Articles"
+        href: research/
+      - text: "Books"
+        href: books/
+      - text: "Public Engagement"
+        href: press/
+      - text: "CV"
+        href: "files/stokes_cv.pdf"
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+
+resources:
+  - CNAME
+  - styles2.css
+

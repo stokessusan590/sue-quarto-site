@@ -1,0 +1,89 @@
+{
+  "research/research.qmd": {
+    "research.html": "2c65a6bf"
+  },
+  "teaching.qmd": {
+    "teaching.html": "5223f723"
+  },
+  "index.qmd": {
+    "index.html": "0f314bf3"
+  },
+  "research/index.qmd": {
+    "index.html": "44193221"
+  },
+  "files/placeholder.md": {
+    "placeholder.html": "4e26cd98"
+  },
+  "books/index.qmd": {
+    "index.html": "d62cec12"
+  },
+  "books/backsliders.qmd": {
+    "backsliders.html": "88acb2a6"
+  },
+  "books/welch_brett.qmd": {
+    "welch_brett.html": "1eeae5d9"
+  },
+  "books/inxed.qmd": {
+    "inxed.html": "7d180c51"
+  },
+  "books/books/welch_brett.qmd": {
+    "welch_brett.html": "71a3f6cd"
+  },
+  "books/books/welch_brett copy.qmd": {
+    "welch_brett copy.html": "60709e74"
+  },
+  "books/books/backsliders.qmd": {
+    "backsliders.html": "4dc9ddb6"
+  },
+  "books/books/whybother.qmd": {
+    "whybother.html": "5dcf19bf"
+  },
+  "books/whybother.qmd": {
+    "whybother.html": "b59726d9"
+  },
+  "books/book-info/backsliders.qmd": {
+    "backsliders.html": "8c6878f9"
+  },
+  "books/book-info/whybother.qmd": {
+    "whybother.html": "079cf555"
+  },
+  "books/book-info/handbook.qmd": {
+    "handbook.html": "b475bcbc"
+  },
+  "books/book-info/pol-rep.qmd": {
+    "pol-rep.html": "f9005f23"
+  },
+  "books/book-info/skepticism.qmd": {
+    "skepticism.html": "45024ed8"
+  },
+  "books/book-info/market-reforms.qmd": {
+    "market-reforms.html": "c6ba6654"
+  },
+  "books/book-info/mandates.qmd": {
+    "mandates.html": "8f00d5c6"
+  },
+  "books/book-info/peru.qmd": {
+    "peru.html": "3d0164c3"
+  },
+  "books/book-info/brokers.qmd": {
+    "brokers.html": "47c0e862"
+  },
+  "books/book-info/dar.qmd": {
+    "dar.html": "99110244"
+  },
+  "books/book-info/democracia.qmd": {
+    "democracia.html": "5e3f1885"
+  },
+  "books/book-info/designing.qmd": {
+    "designing.html": "448359de"
+  },
+  "press/index.qmd": {
+    "index.html": "30957b93"
+  },
+  "press/2023_06_27-ProjectSyndicate/index.qmd": {
+    "index.html": "4f4d2c9b"
+  },
+  "books/papers.qmd": {
+    "papers.html": "b997a42c"
+  }
+}

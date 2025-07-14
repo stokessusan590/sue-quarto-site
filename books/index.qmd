@@ -1,0 +1,50 @@
+---
+title: "Books and Edited Volumes"
+description: ""
+title-block: false
+format:
+  html:
+    css: styles.css
+    page-layout: full
+header-includes: |
+  <style>
+    h1.title {
+      display: none;
+    }
+  </style>
+listing:
+
+  - id: books
+    include:
+      type: "book"
+    contents: books.yaml
+    template: books.ejs
+    filter-ui: false
+    sort: "date desc"
+    sort-ui: false
+    categories: false
+
+  - id: volumes
+    include:
+      type: "volume"
+    contents: books.yaml
+    template: books.ejs
+    filter-ui: false
+    sort: "date desc"
+    sort-ui: false
+    categories: false
+
+toc: true
+---
+
+## Single-authored and Coauthored Books
+
+(Click book covers for more information)
+
+::: {#books}
+:::
+
+## Edited Volumes
+
+::: {#volumes}
+:::

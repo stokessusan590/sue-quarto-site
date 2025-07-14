@@ -1,0 +1,37 @@
+---
+title: "Articles"
+description: "" 
+listing:
+
+  - id: published-papers
+    include: 
+      type: 
+      - "Article"
+      - "Chapter"
+    contents: papers.yaml
+    template: papers.ejs
+    filter-ui: false
+    sort: "date desc"
+    sort-ui: false
+    page-size: 300 # stops it from adding pagination w/20+ articles
+    categories: true  
+
+
+toc: false   
+page-layout: article
+css: |
+  .quarto-toc, .quarto-categories {
+    font-size: 1.2em;  # Adjust this value as needed
+  }
+---
+
+# Articles and Book Chapters
+
+(Select a research topic from the list to filter by subject)
+
+## 
+
+::: {#published-papers}
+:::
+
+## 
