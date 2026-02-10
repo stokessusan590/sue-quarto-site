@@ -3,9 +3,6 @@
 <div id="press-mentions">
   <% for (const item of items) { %>
     <a href="<%= item.url %>" target="_blank" rel="noopener noreferrer" class="project-card">
-      <div class="project-image">
-        <img src="<%= item.image %>" alt="<%= item.title %> logo" loading="lazy" />
-      </div>
       <div class="project-content">
         <div class="title-subtitle-wrapper">
           <h3><%= item.title %></h3>

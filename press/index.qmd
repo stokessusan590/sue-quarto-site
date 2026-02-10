@@ -5,7 +5,7 @@ listing:
   - contents: press.yaml
     template: press.ejs
     type: grid
-    fields: [title, categories, date, image, url]
+    fields: [title, categories, date, url]
     sort: "date desc"
     filter-ui: false
 toc: false
