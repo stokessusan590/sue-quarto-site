@@ -1,3 +1,35 @@
+- title: "Why Elected Leaders Subvert Democracy"
+  type: "Article"
+  author:
+    - Susan Stokes
+  date: 2026-04-01
+  year: 2026
+  journal: "Journal of Democracy"
+  pubopen: "https://doi.org/10.1353/jod.2026.a986019"
+  pdf: "../files/jod2026.pdf"
+  categories:
+    - Democratic Erosion
+  abstract: "No longer is the military coup the chief source of democratic instability in the world. In the twenty-first century, it is democratic erosion driven by elected leaders that presents the principal challenge to democracy. This article traces the roots of backsliding to economic and political changes that began in the late twentieth century, explains why income inequality is the most robust structural predictor of democratic erosion, and discusses what can be done — by political elites, civil society, and ordinary citizens — to slow and reverse the process."
+
+
+- title: "Restoring Institutional Confidence in Backsliding Democracies: Evidence from Mexico"
+  type: "Article"
+  author:
+    - Brett Bessen
+    - Susan Stokes
+    - Andres Uribe
+  date: 2025-12-03
+  year: 2025
+  journal: "Proceedings of the National Academy of Sciences"
+  pubopen: "https://doi.org/10.1073/pnas.2516520122"
+  dataverse: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HOJD6F"
+  pdf: "../files/pnas2025b.pdf"
+  categories:
+    - Democratic Erosion
+    - Latin American Politics
+  abstract: "Declining confidence in public institutions afflicts many democracies, a trend apparently exacerbated by backsliding leaders. Does the rhetoric of backsliders undermine the public's confidence in the institutions under attack, and can rebuttals of presidential diatribes restore this confidence? We explore these questions in Mexico during the López Obrador administration. Survey experiments show that presidential diatribes undermine public confidence — but that counternarratives from organizations viewed as above the partisan fray can restore it, even among the president's own supporters."
+  
+  
 - title: "Building Tolerance for Backsliding By Trash Talking Democracy: Theory and Evidence from Mexico"
   type: "Article"
   author:
@@ -15,7 +47,8 @@
   categories:
     - Democratic Erosion
     - Latin American Politics
-  abstract: "Leaders who seek to build public toleration for democratic backsliding have a little-noticed strategy at their disposal: degrading their democracies in the eyes of their citizens. If voters can be induced to believe that their democracy is already broken, then nothing of value is lost when leaders attack the courts, vilify the press, or undermine confidence in elections. We call this strategy trash-talking democracy, and study it in the context of contemporary Mexico. We use text-as-data methods to show that President Andrés Manuel López Obrador spent more time trash-talking his democracy than he did deepening partisan polarization. With a survey experiment we show that exposure to López Obrador’s trash-talking of the courts elicits anti-democratic attitudes among Mexicans — both among his supporters and among supporters of the opposition. Strategies to resist backsliding should include not just efforts at de-polarization but also at restoring confidence in democratic institutions."
+  abstract:    "Leaders who seek to build public toleration for democratic backsliding have a little-noticed strategy at their disposal: degrading their democracies in the eyes of their citizens. If voters can be induced to believe that their democracy is already broken, then nothing of value is lost when leaders attack the courts, vilify the press, or undermine confidence in elections. We call this strategy trash-talking democracy, and study it in the context of contemporary Mexico. We use text-as-data methods to show that President Andrés Manuel López Obrador spent more time trash-talking his democracy than he did deepening partisan polarization. With a survey experiment we show that exposure to López Obrador’s trash-talking of the courts elicits anti-democratic attitudes among Mexicans — both among his supporters and among supporters of the opposition. Strategies to resist backsliding should include not just efforts at de-polarization but also at restoring confidence in democratic institutions."
+
 
 
 
@@ -35,7 +68,7 @@
   categories:
     - Democratic Erosion
     - Political Economy
-  abstract: "Among the most pressing problems societies face today are economic inequality and the erosion of democratic norms and institutions. In fact the two problems—inequality and democratic erosion—are linked. In a large cross-national statistical study of risk factors for democratic erosion, we establish that economic inequality is one of the strongest predictors of where and when democracy erodes. Even wealthy and longstanding democracies are vulnerable if they are highly unequal (though national wealth might provide some resiliency). The association between inequality and risk of democratic backsliding is robust, and holds under different measures and structures of both income inequality and wealth inequality. The association is unlikely to be a case of reverse causation. For concerned citizens seeking to understand why so many democracies are eroding and how to stop this process, our study indicates that policies for ameliorating inequality are a promising path forward."
+  abstract:  "Among the most pressing problems societies face today are economic inequality and the erosion of democratic norms and institutions. In fact the two problems—inequality and democratic erosion—are linked. In a large cross-national statistical study of risk factors for democratic erosion, we establish that economic inequality is one of the strongest predictors of where and when democracy erodes. Even wealthy and longstanding democracies are vulnerable if they are highly unequal (though national wealth might provide some resiliency). The association between inequality and risk of democratic backsliding is robust, and holds under different measures and structures of both income inequality and wealth inequality. The association is unlikely to be a case of reverse causation. For concerned citizens seeking to understand why so many democracies are eroding and how to stop this process, our study indicates that policies for ameliorating inequality are a promising path forward."
   related: 
     - "<u>Related Letter</u>: Rau, E.G. and Stokes, S.C. (2025). Reply to Fiscella: Why study erosion now? And why these risk factors? <em>Proceedings of the National Academy of Sciences</em>, 122(12), e2501249122. <a href='https://www.pnas.org/doi/abs/10.1073/pnas.2501249122' target='_blank'>Link</a> / <a href='../files/pnas2025-reply.pdf' target='_blank'>PDF</a>"
 
